@@ -1,0 +1,1 @@
+Please place factory code on the back of the pcb; this pcb has no drill holes; please cover both sides with soldermask completely
